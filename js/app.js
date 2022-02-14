@@ -6,9 +6,9 @@ class MythicalPet {
         this._petname = petname;
         this._hunger = 0;
         this._thirst = 0;
-        //this._happiness = 50;
+        this.mood = 50;
         this._energy = 40;
-        this._sleep = 0;
+        this._fatigue = 0;
         // this._takeDrink = takeDrink;
         // this._eatFood = eatFood;
         //this._temparature = ['hot', 'too warm', 'warm', 'just right', 'cold', 'too cold', 'freezing'];
